@@ -4,7 +4,8 @@
 ![DAX](https://img.shields.io/badge/DAX-118C7F?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-2CA5A4?style=for-the-badge)
 
-> **📎 Сюда — общий скрин дашборда** (страница «Обзор» целиком, она самая презентационная) — 
+> **📎<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb414cfa-11b6-47dd-a996-f81867112c0b" />
+ Сюда — общий скрин дашборда** (страница «Обзор» целиком, она самая презентационная) — 
 > или коллаж из 5 страниц. Это «обложка» кейса: её видно в превью на hh/GitHub.
 
 ---
