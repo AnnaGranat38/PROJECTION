@@ -1,6 +1,6 @@
 # 📊 PROJECTION — портфолио аналитических проектов
 
-Учебные и реальные кейсы: SQL (PostgreSQL), BI-дашборды (Power BI, Metabase), аналитика в Excel.
+Учебные и реальные кейсы: SQL (PostgreSQL), DAX, BI-дашборды (Power BI, Metabase, Excel).
 
 ---
 
