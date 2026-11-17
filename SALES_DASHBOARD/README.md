@@ -41,7 +41,7 @@
 
 Страница «Анализ продаж»: динамика 2024 vs 2025, топ/анти-топ категорий.
 
-<img width="1308" height="737" alt="Страница «Анализ продаж»" src="https://github.com/user-attachments/assets/4f114931-8a2c-4f99-a35b-286ff1c2d54b" />
+<img width="1152" height="789" alt="image" src="https://github.com/user-attachments/assets/8d691620-8b49-40b9-8a94-3732ee34246b" />
 
 
 Страница «Магазины»: таблица по магазинам, топ/анти-топ.
@@ -58,7 +58,6 @@
 
 5. **Интерактив:** страница-подсказка (tooltip) — при наведении на месяц показывается выручка, YoY % и сезонный индекс.
 
-<img width="1249" height="731" alt="Тултип при наведении на месяц" src="https://github.com/user-attachments/assets/024048cb-afbc-4475-a34b-caf0c9582055" />
 <img width="1152" height="783" alt="image" src="https://github.com/user-attachments/assets/f7de782c-257f-424e-87de-31ac73a3ecf1" />
 
 
